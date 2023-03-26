@@ -4,25 +4,21 @@ export const menuItems = [
     {
         id: 1,
         title: 'Dashboard',
-        icon: dashboard,
-        link: '/dashboard'
+        icon: dashboard
     },
     {
         id: 2,
         title: "View Transactions",
-        icon: transactions,
-        link: "/dashboard",
+        icon: transactions
     },
     {
         id: 3,
         title: "Incomes",
-        icon: trend,
-        link: "/dashboard",
+        icon: trend
     },
     {
         id: 4,
         title: "Expenses",
-        icon: expenses,
-        link: "/dashboard",
+        icon: expenses
     },
 ]

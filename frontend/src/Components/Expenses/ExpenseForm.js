@@ -74,7 +74,7 @@ function ExpenseForm() {
                     <option value="groceries">Groceries</option>
                     <option value="health">Health</option>
                     <option value="subscriptions">Subscriptions</option>
-                    <option value="takeaways">Takeaways</option>
+                    <option value="food">Food</option>
                     <option value="clothing">Clothing</option>  
                     <option value="travelling">Travelling</option>  
                     <option value="other">Other</option>  
@@ -89,7 +89,7 @@ function ExpenseForm() {
                     icon={plus}
                     bPad={'.8rem 1.6rem'}
                     bRad={'30px'}
-                    bg={'var(--color-accent'}
+                    bg={'red'}
                     color={'#fff'}
                 />
             </div>
